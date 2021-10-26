@@ -1,0 +1,1 @@
+Skálázhatóság elérése érdekében külön pontokra kell bontani a frontend és backend szervert, valamint a fileba mentés helyett egy adatbázisban kellene felhasználókat és hozzájuk tartozó számokat tárolni.
